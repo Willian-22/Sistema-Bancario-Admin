@@ -6,7 +6,7 @@ package com.unincor.sistema.bancario.admin;
 
 /**
  *
- * @author ferna
+ * @author willian
  */
 public class SistemaBancarioAdmin {
 
