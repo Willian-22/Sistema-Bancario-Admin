@@ -6,7 +6,7 @@ package com.unincor.sistema.bancario.admin.exceptions;
 
 /**
  *
- * @author Ferna
+ * @author willian
  */
 public class CadastroExceptions extends Exception{
 

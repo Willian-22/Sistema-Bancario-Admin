@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author ferna
+ * @author willian
  */
 public class GerenteService {
 

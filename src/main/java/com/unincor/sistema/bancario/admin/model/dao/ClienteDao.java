@@ -20,7 +20,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author ferna
+ * @author willian
  */
 public class ClienteDao {
 

@@ -6,7 +6,7 @@ package com.unincor.sistema.bancario.admin.model.domain;
 
 /**
  *
- * @author ferna
+ * @author willian
  */
 public class Agencia {
     

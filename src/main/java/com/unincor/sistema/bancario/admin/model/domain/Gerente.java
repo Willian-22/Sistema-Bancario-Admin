@@ -8,7 +8,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author ferna
+ * @author willian
  */
 public class Gerente extends Pessoa {
     
